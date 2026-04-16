@@ -3,6 +3,14 @@
     <channel>
         <title>Canopy</title>
         <item>
+            <title>3.3.1</title>
+            <pubDate>Thu, 16 Apr 2026 18:44:45 +0200</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>3.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://getcanopy-app.github.io/Canopy-Updates/Canopy-3.3.1.zip" length="4936809" type="application/octet-stream" sparkle:edSignature="I15QcYJsUGXxserQaTmtWLH5NiEwaYRxelqsS7qOuyLIhaxsyJt3bd+xbhA/fVJfZ9TldMD4bSmk7oEdiJGGAA=="/>
+        </item>
+        <item>
             <title>3.3</title>
             <pubDate>Thu, 16 Apr 2026 16:04:30 +0200</pubDate>
             <sparkle:version>4</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>3.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <enclosure url="https://hdqaraucmnhwmgwjrezg.supabase.co/storage/v1/object/public/bucket2/Canopy-3.2.zip" length="4864471" type="application/octet-stream" sparkle:edSignature="Vkcf6raedp4IHY2jV8G6yih9h7AAC38S8PQSz3TxP8g/fBt/1DxUbGOFrTP96N1TemyjsujYJ/T3kw3MVC5aCg=="/>
-        </item>
-        <item>
-            <title>3.1</title>
-            <pubDate>Tue, 14 Apr 2026 19:00:48 +0200</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>3.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://getcanopy.pro/Canopy-v2.dmg" length="4873943" type="application/octet-stream" sparkle:edSignature="e56EGHD5fNy6ial43OnOCpbAVuNkqbq4BeUfzKR3/W7pLzKkAhDGC1YCfN05zqfwJGCq4wlTUR03RypA9g/7Dw=="/>
         </item>
     </channel>
 </rss>
