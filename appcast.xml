@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Canopy</title>
+        <item>
+            <title>3.2</title>
+            <pubDate>Tue, 15 Apr 2026 20:00:00 +0200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://hdqaraucmnhwmgwjrezg.supabase.co/storage/v1/object/public/bucket2/Canopy-3.2.zip" length="4864471" type="application/octet-stream" sparkle:edSignature="Vkcf6raedp4IHY2jV8G6yih9h7AAC38S8PQSz3TxP8g/fBt/1DxUbGOFrTP96N1TemyjsujYJ/T3kw3MVC5aCg=="/>
+        </item>
+    </channel>
+</rss>
