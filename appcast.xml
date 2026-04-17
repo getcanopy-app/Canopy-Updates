@@ -3,6 +3,14 @@
     <channel>
         <title>Canopy</title>
         <item>
+            <title>3.3.3</title>
+            <pubDate>Sat, 18 Apr 2026 01:43:53 +0200</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>3.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://getcanopy-app.github.io/Canopy-Updates/Canopy-3.3.3.dmg" length="5025682" type="application/octet-stream" sparkle:edSignature="knFfpKId6mGxsEYXi/RB8Sp6ErNmpKHmY2DY4xLWbMz65Ykzmbi1DOFm3fUtrvCTx3MoDajxkhq2LhWDWzq0AA=="/>
+        </item>
+        <item>
             <title>3.3.2</title>
             <pubDate>Thu, 16 Apr 2026 22:45:40 +0200</pubDate>
             <sparkle:version>6</sparkle:version>
