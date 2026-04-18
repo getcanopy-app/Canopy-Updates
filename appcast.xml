@@ -8,7 +8,7 @@
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>3.3.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://getcanopy-app.github.io/Canopy-Updates/Canopy-3.3.3.dmg" length="5025682" type="application/octet-stream" sparkle:edSignature="knFfpKId6mGxsEYXi/RB8Sp6ErNmpKHmY2DY4xLWbMz65Ykzmbi1DOFm3fUtrvCTx3MoDajxkhq2LhWDWzq0AA=="/>
+            <enclosure url="https://getcanopy-app.github.io/Canopy-Updates/Canopy-3.3.3.dmg" length="5023195" type="application/octet-stream" sparkle:edSignature="rTVYyLjcjihbtX/sPrET3D41ATfkV7sf1PIjXhP1P2ZyPY7GJ73af299tHu/93f51VbdMiXTB52iKvO4k/FWCQ=="/>
         </item>
         <item>
             <title>3.3.2</title>
